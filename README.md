@@ -21,7 +21,7 @@ Questions (from DP)
     + I usually just give a drop down menu of 18-31, with '17 or younger' and '32 or older' as options, which then will end the experiment if they continue
 
 But again, maybe this is needed because of the different population/payment?
-- What we wil need, however, is an *optional* field for their email address. This is the way the pool works - students register to it with an email address which is then used to track whether they've done the required number of experiments to get credit. We would download the file, get the addresses, send them to Jan and then just delete them.
+- What we wil need, however, is an *optional* field for their email address. This is the way the pool works - students register to it with an email address which is then used to track whether they've done the required number of experiments to get credit. We would download the file, get the addresses, send them to Jan and then just delete them. (RL)
 - Would this be fine re the approval? (RL)
 
 Consent/Participant info:
