@@ -6,11 +6,21 @@ L2-English speakers.
 
 To do:
 
-- translate instructions to English (data_includes/main.js)
-- re-record stimuli (English: DP)
-- pre-test:
-  - binary picture-selection task (n = 40?)
+- request English recordings from Natalia M.
+  - or re-record stimuli (English: DP)
+- translate
+  + instructions to English (data_includes/main.js)
+  + consent into Czech
+  + get consent German version
+- stimuli from OSF to github (OO)
   
+- pre-test:
+  - binary picture-selection task with English stim (n = 40?)
+    + L1-Turkish (Uni students)
+    + L1-Czech (Uni students)
+    + L1-German (Prolific? ClickWorker?)
+    + L1-English? (Prolific)
+  - different Ibex versions per language, with differing consent form language and collected demo/payment validation info
   
 Questions (from DP)
 
