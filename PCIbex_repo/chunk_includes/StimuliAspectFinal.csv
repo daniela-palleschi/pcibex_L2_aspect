@@ -1,0 +1,88 @@
+group,Category,Audio,Image1,Image2,Matching,Preamble_English,Sentence_English
+A,filler,FP1_merged.wav,FP1_a.jpg,FP1_b.jpg,j,It was early in the morning.,Grandpa was satisfied that the candle was blown out. 
+B,filler,FP1_merged.wav,FP1_a.jpg,FP1_b.jpg,j,It was early in the morning.,Grandpa was satisfied that the candle was blown out. 
+C,filler,FP1_merged.wav,FP1_a.jpg,FP1_b.jpg,j,It was early in the morning.,Grandpa was satisfied that the candle was blown out. 
+A,filler,FP13_merged.wav,FP13_a.jpg,FP13_b.jpg,j,The weather was nice and warm.,The boy enjoyed himself photographing nature.
+B,filler,FP13_merged.wav,FP13_a.jpg,FP13_b.jpg,j,The weather was nice and warm.,The boy enjoyed himself photographing nature.
+C,filler,FP13_merged.wav,FP13_a.jpg,FP13_b.jpg,j,The weather was nice and warm.,The boy enjoyed himself photographing nature.
+A,filler,FP14_merged.wav,FP14_a.jpg,FP14_b.jpg,,It was a holiday weekend.,Grandpa concantrated on preparing dessert.
+B,filler,FP14_merged.wav,FP14_a.jpg,FP14_b.jpg,,It was a holiday weekend.,Grandpa concantrated on preparing dessert.
+C,filler,FP14_merged.wav,FP14_a.jpg,FP14_b.jpg,,It was a holiday weekend.,Grandpa concantrated on preparing dessert.
+A,filler,FP15_merged.wav,FP15_a.jpg,FP15_b.jpg,,It was early in the morning.,The girl worked on cutting out a flower.
+B,filler,FP15_merged.wav,FP15_a.jpg,FP15_b.jpg,,It was early in the morning.,The girl worked on cutting out a flower.
+C,filler,FP15_merged.wav,FP15_a.jpg,FP15_b.jpg,,It was early in the morning.,The girl worked on cutting out a flower.
+A,filler,FP16_merged.wav,FP16_a.jpg,FP16_b.jpg,,There were jobs to do around the house.,The boy wanted to take apart the old wooden stool.
+B,filler,FP16_merged.wav,FP16_a.jpg,FP16_b.jpg,,There were jobs to do around the house.,The boy wanted to take apart the old wooden stool.
+C,filler,FP16_merged.wav,FP16_a.jpg,FP16_b.jpg,,There were jobs to do around the house.,The boy wanted to take apart the old wooden stool.
+A,filler,FP17_merged.wav,FP17_a.jpg,FP17_b.jpg,j,It was the middle of the afternoon.,Grandpa relaxed and read a book.
+B,filler,FP17_merged.wav,FP17_a.jpg,FP17_b.jpg,j,It was the middle of the afternoon.,Grandpa relaxed and read a book.
+C,filler,FP17_merged.wav,FP17_a.jpg,FP17_b.jpg,j,It was the middle of the afternoon.,Grandpa relaxed and read a book.
+A,filler,FP18_merged.wav,FP18_a.jpg,FP18_b.jpg,j,The weather was nice and warm.,Grandpa occupied himself in the strawberry patch.
+B,filler,FP18_merged.wav,FP18_a.jpg,FP18_b.jpg,j,The weather was nice and warm.,Grandpa occupied himself in the strawberry patch.
+C,filler,FP18_merged.wav,FP18_a.jpg,FP18_b.jpg,j,The weather was nice and warm.,Grandpa occupied himself in the strawberry patch.
+A,filler,FP2_merged.wav,FP2_a.jpg,FP2_b.jpg,j,It was the middle of the afternoon.,Grandma was successful in cracking open the nut.
+B,filler,FP2_merged.wav,FP2_a.jpg,FP2_b.jpg,j,It was the middle of the afternoon.,Grandma was successful in cracking open the nut.
+C,filler,FP2_merged.wav,FP2_a.jpg,FP2_b.jpg,j,It was the middle of the afternoon.,Grandma was successful in cracking open the nut.
+A,filler,FP22_merged.wav,FP22_a.jpg,FP22_b.jpg,a,It was late in the afternoon. ,The girl decided to burn a blue notebook.
+B,filler,FP22_merged.wav,FP22_a.jpg,FP22_b.jpg,a,It was late in the afternoon. ,The girl decided to burn a blue notebook.
+C,filler,FP22_merged.wav,FP22_a.jpg,FP22_b.jpg,a,It was late in the afternoon. ,The girl decided to burn a blue notebook.
+A,filler,FP4_merged.wav,FP4_a.jpg,FP4_b.jpg,j,It was a beautiful quiet evening. ,Grandpa was unconcerned that the old bridge had been destroyed.
+B,filler,FP4_merged.wav,FP4_a.jpg,FP4_b.jpg,j,It was a beautiful quiet evening. ,Grandpa was unconcerned that the old bridge had been destroyed.
+C,filler,FP4_merged.wav,FP4_a.jpg,FP4_b.jpg,j,It was a beautiful quiet evening. ,Grandpa was unconcerned that the old bridge had been destroyed.
+A,filler,FP7_merged.wav,FP7_a.jpg,FP7_b.jpg,j,There was going to be a party later.,Grandma was impressed with the beautiful dress she had sown.
+B,filler,FP7_merged.wav,FP7_a.jpg,FP7_b.jpg,j,There was going to be a party later.,Grandma was impressed with the beautiful dress she had sown.
+C,filler,FP7_merged.wav,FP7_a.jpg,FP7_b.jpg,j,There was going to be a party later.,Grandma was impressed with the beautiful dress she had sown.
+A,filler,FP8_merged.wav,FP8_a.jpg,FP8_b.jpg,j,It was a rainy day outside. ,Grandma was half way through cutting the sleeves of the shirt. 
+B,filler,FP8_merged.wav,FP8_a.jpg,FP8_b.jpg,j,It was a rainy day outside. ,Grandma was half way through cutting the sleeves of the shirt. 
+C,filler,FP8_merged.wav,FP8_a.jpg,FP8_b.jpg,j,It was a rainy day outside. ,Grandma was half way through cutting the sleeves of the shirt. 
+A,filler,FP9_merged.wav,FP9_a.jpg,FP9_b.jpg,j,The weather was nice and warm.,Grandpa was tired after chopping down the tree. 
+B,filler,FP9_merged.wav,FP9_a.jpg,FP9_b.jpg,j,The weather was nice and warm.,Grandpa was tired after chopping down the tree. 
+C,filler,FP9_merged.wav,FP9_a.jpg,FP9_b.jpg,j,The weather was nice and warm.,Grandpa was tired after chopping down the tree. 
+A,Imp,merged_bake_Imp.wav,bake cake 1.jpg,bake cake 0.jpg,j,It was a rainy day outside.,Grandma was baking a lovely cake.
+B,Pf,merged_bake_Pf.wav,bake cake 0.jpg,bake cake 1.jpg,j,It was a rainy day outside.,Grandma baked a lovely cake.
+B,Imp,merged_build_Imp.wav,build snowman 0.jpg,build snowman 1.jpg,f,It was a crisp winter morning.,Grandpa was building a big snowman
+C,Pf,merged_build_Pf.wav,build snowman 1.jpg,build snowman 0.jpg,f,It was a crisp winter morning.,Grandpa built a big snowman.
+C,Imp,merged_bury_Imp.wav,bury chest 1.jpg,bury chest 0.jpg,j,It was a dark night with no hint of a breeze.,The boy was burying a wooden chest.
+A,Pf,merged_bury_Pf.wav,bury chest 0.jpg,bury chest 1.jpg,j,It was a dark night with no hint of a breeze.,The boy buried a wooden chest.
+A,Imp,merged_buy_Imp.wav,buy phone 1.jpg,buy phone 0.jpg,j,There were many people shopping in town.,The girl was buying a new phone.
+B,Pf,merged_buy_Pf.wav,buy phone 0.jpg,buy phone 1.jpg,j,There were many people shopping in town.,The girl bought a new phone.
+B,Imp,merged_clean_Imp.wav,clean room 1.jpg,clean room 0.jpg,j,It was early in the morning.,The boy was cleaning the front room.
+C,Pf,merged_clean_Pf.wav,clean room 0.jpg,clean room 1.jpg,j,It was early in the morning.,The boy cleaned the front room.
+C,Imp,merged_color_Imp.wav,color drawing 0.jpg,color drawing 1.jpg,f,It was playtime at the school.,The boy was colouring a pretty picture.
+A,Pf,merged_color_Pf.wav,color drawing 1.jpg,color drawing 0.jpg,f,It was playtime at the school.,The boy coloured a pretty picture.
+A,Imp,merged_demolish_Imp.wav,demolish house 1.jpg,demolish house 0.jpg,j,It was the middle of the day. ,Grandpa was demolishing an old house.
+B,Pf,merged_demolish_Pf.wav,demolish house 0.jpg,demolish house 1.jpg,j,It was the middle of the day. ,Grandpa demolished an old house.
+B,Imp,merged_dig_Imp.wav,dig hole 0.jpg,dig hole 1.jpg,f,It was a bright sunny day. ,Grandpa was digging a deep pit.
+C,Pf,merged_dig_Pf.wav,dig hole 1.jpg,dig hole 0.jpg,f,It was a bright sunny day. ,Grandpa dug a deep pit.
+C,Imp,merged_draw_Imp.wav,draw vase 0.jpg,draw vase 1.jpg,f,It was playtime at the school.,The girl was drawing a slender vase.
+A,Pf,merged_draw_Pf.wav,draw vase 1.jpg,draw vase 0.jpg,f,It was playtime at the school.,The girl drew a slender vase.
+A,Imp,merged_drill_Imp.wav,drill hole 0.jpg,drill hole 1.jpg,f,There were jobs to do around the house.,Grandpa was drilling a big hole.
+B,Pf,merged_drill_Pf.wav,drill hole 1.jpg,drill hole 0.jpg,f,There were jobs to do around the house.,Grandpa drilled a big hole.
+B,Imp,merged_eat_Imp.wav,eat fish 1.jpg,eat fish 0.jpg,j,It was time for lunch.,The girl was eating a tasty fish.
+C,Pf,merged_eat_Pf.wav,eat fish 0.jpg,eat fish 1.jpg,j,It was time for lunch.,The girl ate a tasty fish.
+C,Imp,merged_fix_Imp.wav,fix fridge 0.jpg,fix fridge 1.jpg,f,It was a holiday weekend.,Grandpa was fixing the old fridge.
+A,Pf,merged_fix_Pf.wav,fix fridge 1.jpg,fix fridge 0.jpg,f,It was a holiday weekend.,Grandpa fixed the old fridge.
+A,Imp,merged_hang_Imp.wav,hang painting 0.jpg,hang painting 1.jpg,f,It was a holiday weekend,Grandma was hanging a beautiful painting.
+B,Pf,merged_hang_Pf.wav,hang painting 1.jpg,hang painting 0.jpg,f,It was a holiday weekend,Grandma hung a beautiful painting.
+B,Imp,merged_iron_Imp.wav,iron shirt 0.jpg,iron shirt 1.jpg,f,There was going to be a party. ,Grandpa was ironing a clean shirt.
+C,Pf,merged_iron_Pf.wav,iron shirt 1.jpg,iron shirt 0.jpg,f,There was going to be a party. ,Grandpa ironed a clean shirt.
+C,Imp,merged_knit_Imp.wav,knit sweater 0.jpg,knit sweater 1.jpg,f,It was a crisp winter morning.,Grandma was knitting a new jumper.
+A,Pf,merged_knit_Pf.wav,knit sweater 1.jpg,knit sweater 0.jpg,f,It was a crisp winter morning.,Grandma knitted a new jumper.
+A,Imp,merged_light_Imp.wav,light fire 0.jpg,light fire 1.jpg,f,It was a crisp winter morning.,Grandpa was lighting a cosy fire.
+B,Pf,merged_light_Pf.wav,light fire 1.jpg,light fire 0.jpg,f,It was a crisp winter morning.,Grandpa lit a cosy fire.
+B,Imp,merged_lock_Imp.wav,lock door 0.jpg,lock door 1.jpg,f,It was the middle of the afternoon.,Grandma was locking the side door.
+C,Pf,merged_lock_Pf.wav,lock door 1.jpg,lock door 0.jpg,f,It was the middle of the afternoon.,Grandma locked the side door.
+C,Imp,merged_open_Imp.wav,open window 1.jpg,open window 0.jpg,j,The weather was nice and warm.,The girl was opening a big window.
+A,Pf,merged_open_Pf.wav,open window 0.jpg,open window 1.jpg,j,The weather was nice and warm.,The girl opened a big window.
+A,Imp,merged_paint_Imp.wav,paint wall 1.jpg,paint wall 0.jpg,j,There were jobs to do around the house.,The girl was painting a high wall.
+B,Pf,merged_paint_Pf.wav,paint wall 0.jpg,paint wall 1.jpg,j,There were jobs to do around the house.,The girl painted a high wall.
+B,Imp,merged_plant_Imp.wav,plant flower 1.jpg,plant flower 0.jpg,j,It was a bright sunny day. ,Grandma was planting a pretty flower.
+C,Pf,merged_plant_Pf.wav,plant flower 0.jpg,plant flower 1.jpg,j,It was a bright sunny day. ,Grandma planted a pretty flower.
+C,Imp,merged_sharpen_Imp.wav,sharpen pencil 1.jpg,sharpen pencil 0.jpg,j,It was the first period at school.,The boy was sharpening a thin pencil.
+A,Pf,merged_sharpen_Pf.wav,sharpen pencil 0.jpg,sharpen pencil 1.jpg,j,It was the first period at school.,The boy sharpened a thin pencil.
+A,Imp,merged_slice_Imp.wav,slice watermelon 0.jpg,slice watermelon 1.jpg,f,It was time for lunch.,Grandma was slicing a juicy watermelon.
+B,Pf,merged_slice_Pf.wav,slice watermelon 1.jpg,slice watermelon 0.jpg,f,It was time for lunch.,Grandma sliced a juicy watermelon.
+B,Imp,merged_sweep_Imp.wav,sweep corridor 1.jpg,sweep corridor 0.jpg,j,There was going to be a party. ,The boy was sweeping the narrow corridor.
+C,Pf,merged_sweep_Pf.wav,sweep corridor 0.jpg,sweep corridor 1.jpg,j,There was going to be a party. ,The boy swept the narrow corridor.
+C,Imp,merged_water_Imp.wav,water plant 1.jpg,water plant 0.jpg,j,The weather was nice and warm.,Grandma was watering a green bush.
+A,Pf,merged_water_Pf.wav,water plant 0.jpg,water plant 1.jpg,j,The weather was nice and warm.,Grandma watered a green bush.
